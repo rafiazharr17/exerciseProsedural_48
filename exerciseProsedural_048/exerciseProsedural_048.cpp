@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int Kandidat = 3;
-string nama[3];
-double nilaiM[3];
-double nilaiBing[3];
+int Kandidat = 20;
+string nama[20];
+int nilaiM[20];
+int nilaiBing[20];
 
 void inputan() {
 	for (int i = 0; i < Kandidat; i++) {
